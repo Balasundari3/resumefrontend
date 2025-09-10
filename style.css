@@ -1,0 +1,195 @@
+
+.bs1 {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    border: 3px solid green;
+    padding: 10px;
+}
+
+.flexi {
+    display: flex;
+    gap: 20px; 
+    justify-content: left;
+}
+
+.first {
+  width: 1200px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.bs {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    border: 3px solid green;
+    padding: 10px;
+}
+.ima{
+    flex-direction: row-reverse;
+}
+.bs3{
+    text-align: center;
+}
+.bs2{
+    display: flex;
+    flex-direction: row;
+}
+.bala{
+    display: flex;
+    flex-direction: column;
+}
+.skill{
+    text-align: center;
+}
+.sub{
+    display: flex;
+    flex-direction: row;
+}
+.java{
+    text-align: center;
+}
+.spring{
+    text-align: center;
+}
+.sql{
+    text-align: center;
+}
+.sub{
+    padding: 10px;
+   display: flex;
+   justify-content: center;  
+    align-items: flex-start;  
+    gap: 20px;               
+    flex-wrap: nowrap; 
+}
+.para {
+  width: 250px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.para2 {
+  width: 250px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.para3 {
+  width: 250px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.java{
+    border: 3px solid green;
+    padding: 5px;
+}
+.spring{
+    border: 3px solid green;
+    padding: 5px;
+}
+.sql{
+    border: 3px solid green;
+    padding: 5px;
+}
+.main2{
+    text-align: center;
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction: column;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.fifi{
+    text-align: center;
+}
+.proj{
+    text-align: center;
+}
+.test{
+    text-align: center;
+}
+.subb{
+    display: flex;
+    flex-direction: row;
+}
+.jdbc{
+    text-align: center;
+}
+.springg{
+    text-align: center;
+}
+.springgg{
+    text-align: center;
+}
+.flutter{
+    text-align: center;
+}
+.subb{
+    padding: 10px;
+   display: flex;
+   justify-content: center;  
+    align-items: flex-start;  
+    gap: 20px;               
+    flex-wrap: nowrap; 
+}
+.para {
+  width: 250px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.para2 {
+  width: 250px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.para3 {
+  width: 250px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.jdbc{
+    border: 3px solid green;
+    padding: 5px;
+}
+.springg{
+    border: 3px solid green;
+    padding: 5px;
+}
+.springgg{
+    border: 3px solid green;
+    padding: 5px;
+}
+.flutter{
+    border: 3px solid green;
+    padding: 5px;
+}
+.test{
+    text-align: center;
+    
+}
+.main3{
+    text-align: center;
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction: column;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-left: 5px solid green;
+    border-right: 5px solid green;
+    padding-top: 10px;
+}
+.full{
+    border: 30px solid green;
+    padding: 10px;
+}
+.fi{
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.fi img {
+    vertical-align: middle;
+    margin-right: 8px;
+}
